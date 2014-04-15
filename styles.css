@@ -1,0 +1,39 @@
+body{
+	background-color: steelblue;
+	font-family: arial;
+}
+.pull-right{
+	position:fixed;
+	right: 50px;
+	font-size: 25px;
+}
+.container{
+	margin: 0 auto;
+	background-color: #e8e8e8;
+	width: 900px;
+	height: auto;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	box-shadow: 1px 3px 3px 5px #404040;
+	border-radius:10px;
+}
+
+.textfield{
+
+}
+h1, h2{
+	color: #79b3cf;
+	text-shadow: 1px 1px 1px #404040;
+}
+h2{
+
+}
+a{
+	color: steelblue;
+	text-decoration: none;
+}
+.left-column{
+	width: 680px;
+}
